@@ -1,0 +1,35 @@
+
+.navbar {
+  background-color: #24292e !important;
+  padding: 10px 20px;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #f9f9f9 !important;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+
+.nav-link:hover {
+  color: rgb(212, 203, 205) !important;
+}
+
+.nav-link.active {
+  color: #00bfff !important; 
+  border-bottom: 2px solid #00bfff;
+  padding-bottom: 2px;
+}
+
+@media (max-width: 576px) {
+  .nav-link {
+    display: block;
+    margin: 10px 0;
+  }
+}
