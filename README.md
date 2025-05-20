@@ -13,3 +13,6 @@ Features: Add, edit, delete, and view employee records by department, phone, and
 
 
 ![Uploading Screenshot 2025-05-18 194324.png…]()
+
+Link Video:
+https://drive.google.com/file/d/1ELx3heTX9CrVz1UTQGYN7fhS7wQtUtoU/view?usp=drive_link
