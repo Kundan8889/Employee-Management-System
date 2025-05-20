@@ -11,4 +11,5 @@ Implemented secure API endpoints and used Axios for frontend-backend communicati
 
 Features: Add, edit, delete, and view employee records by department, phone, and email.
 
+
 ![Uploading Screenshot 2025-05-18 194324.png…]()
